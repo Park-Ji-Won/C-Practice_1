@@ -21,5 +21,23 @@
     <ClCompile Include="HW.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Vari1.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Vari2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Vari3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Vari4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Vari5.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Variable_example_and_type.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

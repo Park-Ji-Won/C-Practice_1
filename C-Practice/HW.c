@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //표준 입출력
 
 int main()
 {

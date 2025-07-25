@@ -39,5 +39,8 @@
     <ClCompile Include="Variable_example_and_type.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Operat1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -6,7 +6,7 @@ int main()
 	//대입 연산자 ex)a=b=c=d=5;
 	a = 10;
 	b = 3;
-
+	// ＋, －, *, /(나눗셈 몫), %(나눗셈 나머지) 를 산술 연산자(Arithmetic Operator) 
 	//산술 연산자(사칙연산)
 	printf("a + b는 : %d \n", a + b);//덧셈
 	printf("a - b는 : %d \n", a - b);//뺄셈

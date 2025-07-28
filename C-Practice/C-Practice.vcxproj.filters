@@ -42,5 +42,17 @@
     <ClCompile Include="Operat1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Operat2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Operat3.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Operat4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Operat5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

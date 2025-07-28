@@ -63,5 +63,17 @@
     <ClCompile Include="Operat8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="text1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="text1_ASCII_Code.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="text2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="text3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

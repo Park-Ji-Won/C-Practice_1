@@ -13,7 +13,7 @@ int main() {
 	}
 
 	double average = (double)sum / n;
-	printf("평균: %.2f\n", average);
+	printf("평균: %2.5f\n", average);
 
 	return 0;
 }

@@ -78,5 +78,8 @@
     <ClCompile Include="text2_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="if-el_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

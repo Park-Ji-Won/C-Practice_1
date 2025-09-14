@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-Practice", "C-Practice\C-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C_project_fast_reviewing", "C_project_fast_reviewing\C_project_fast_reviewing.vcxproj", "{84CCDEAE-4535-4468-A687-9EC1BAB77B24}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_fast_reviewing", "CPP_fast_reviewing\CPP_fast_reviewing.vcxproj", "{06E783BF-DB29-418F-A229-62B67F61931A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{84CCDEAE-4535-4468-A687-9EC1BAB77B24}.Release|x64.Build.0 = Release|x64
 		{84CCDEAE-4535-4468-A687-9EC1BAB77B24}.Release|x86.ActiveCfg = Release|Win32
 		{84CCDEAE-4535-4468-A687-9EC1BAB77B24}.Release|x86.Build.0 = Release|Win32
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Debug|x64.ActiveCfg = Debug|x64
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Debug|x64.Build.0 = Debug|x64
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Debug|x86.ActiveCfg = Debug|Win32
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Debug|x86.Build.0 = Debug|Win32
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Release|x64.ActiveCfg = Release|x64
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Release|x64.Build.0 = Release|x64
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Release|x86.ActiveCfg = Release|Win32
+		{06E783BF-DB29-418F-A229-62B67F61931A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

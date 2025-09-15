@@ -45,5 +45,14 @@
     <ClCompile Include="ch02_8.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch03_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

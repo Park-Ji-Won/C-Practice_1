@@ -14,3 +14,4 @@ int main() {
 	cout << "pizza 면적은 ";
 	cout << area << endl;
 }
+//76

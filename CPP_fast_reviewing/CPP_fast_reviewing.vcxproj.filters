@@ -13,38 +13,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\ch01-02">
+      <UniqueIdentifier>{f76f8693-26f2-4fe9-8cd8-2e70c9594fa1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch01_1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_5_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_7.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_8.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="ch03_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -104,6 +77,36 @@
     </ClCompile>
     <ClCompile Include="ch03_14_1_main.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch01_1.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_1.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_2.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_3.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_4.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_5.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_5_2.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_6.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_7.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_8.cpp">
+      <Filter>소스 파일\ch01-02</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

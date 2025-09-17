@@ -108,6 +108,9 @@
     <ClCompile Include="ch02_8.cpp">
       <Filter>소스 파일\ch01-02</Filter>
     </ClCompile>
+    <ClCompile Include="ch03_15_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_14_1_circle.h">

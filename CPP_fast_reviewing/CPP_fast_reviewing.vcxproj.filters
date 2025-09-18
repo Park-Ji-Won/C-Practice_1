@@ -138,6 +138,9 @@
     <ClCompile Include="ch04_1a.cpp">
       <Filter>소스 파일\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="ch04_2.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_15_2_Calculator.h">

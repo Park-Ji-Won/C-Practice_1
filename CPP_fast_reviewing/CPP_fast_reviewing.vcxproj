@@ -231,7 +231,10 @@
     <ClCompile Include="ch04_1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="ch04_1a.cpp" />
+    <ClCompile Include="ch04_1a.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="ch04_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_14_1_circle.h">

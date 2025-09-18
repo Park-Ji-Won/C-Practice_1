@@ -16,68 +16,14 @@
     <Filter Include="소스 파일\ch01-02">
       <UniqueIdentifier>{f76f8693-26f2-4fe9-8cd8-2e70c9594fa1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch03">
+      <UniqueIdentifier>{338596df-4d9d-4308-88ed-ffa02b8d8fd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\ch03">
+      <UniqueIdentifier>{9c6fc0c1-1f86-4b6b-93fe-841081620f27}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch03_1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_7.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_07_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_8.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_9.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_9_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_10_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_11.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_12.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_13.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_13_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_13_3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_14_1_circle.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch03_14_1_main.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="ch01_1.cpp">
       <Filter>소스 파일\ch01-02</Filter>
     </ClCompile>
@@ -108,31 +54,91 @@
     <ClCompile Include="ch02_8.cpp">
       <Filter>소스 파일\ch01-02</Filter>
     </ClCompile>
-    <ClCompile Include="ch03_15_1.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="ch03_16_1.cpp">
+      <Filter>소스 파일\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="ch03_15_2_main.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="ch03_1.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_2.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_3.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_4.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_5.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_6.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_07_2.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_7.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_8.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_9.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_9_2.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_10.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_10_2.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_11.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_12.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_13.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_13_2.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_13_3.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_14_1_circle.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_14_1_main.cpp">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03_15_1.cpp">
+      <Filter>소스 파일\ch03</Filter>
     </ClCompile>
     <ClCompile Include="ch03_15_2_Adder.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch03</Filter>
     </ClCompile>
     <ClCompile Include="ch03_15_2_Calculator.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch03</Filter>
     </ClCompile>
-    <ClCompile Include="ch03_16_1.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="ch03_15_2_main.cpp">
+      <Filter>소스 파일\ch03</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ch03_15_2_Calculator.h">
+      <Filter>헤더 파일\ch03</Filter>
+    </ClInclude>
     <ClInclude Include="ch03_14_1_circle.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>헤더 파일\ch03</Filter>
     </ClInclude>
     <ClInclude Include="ch03_15_2_Adder.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="ch03_15_2_Calculator.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>헤더 파일\ch03</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

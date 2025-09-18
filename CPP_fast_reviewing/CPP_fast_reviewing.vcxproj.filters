@@ -22,6 +22,9 @@
     <Filter Include="헤더 파일\ch03">
       <UniqueIdentifier>{9c6fc0c1-1f86-4b6b-93fe-841081620f27}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch04">
+      <UniqueIdentifier>{38e4b645-0521-453d-bcd4-36884adbcb2f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch01_1.cpp">
@@ -128,6 +131,9 @@
     </ClCompile>
     <ClCompile Include="ch03_15_2_main.cpp">
       <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_1.cpp">
+      <Filter>소스 파일\ch04</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

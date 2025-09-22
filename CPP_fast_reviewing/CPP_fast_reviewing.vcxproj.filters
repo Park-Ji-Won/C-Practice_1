@@ -141,6 +141,48 @@
     <ClCompile Include="ch04_2.cpp">
       <Filter>소스 파일\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="ch04_3.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_3a.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_3b.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_4.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_5.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_6.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_6a.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_7.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_8.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04_9.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_9a.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_10.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_10a.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_11.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_15_2_Calculator.h">

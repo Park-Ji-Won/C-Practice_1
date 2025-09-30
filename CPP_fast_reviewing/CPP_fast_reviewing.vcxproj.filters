@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\ch04">
       <UniqueIdentifier>{38e4b645-0521-453d-bcd4-36884adbcb2f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch05">
+      <UniqueIdentifier>{e4240bba-7b7b-4d77-a553-236d8834f7ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch06">
+      <UniqueIdentifier>{42c259fd-f2d5-4299-8afc-4d22ceedc98c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch01_1.cpp">
@@ -203,6 +209,15 @@
     </ClCompile>
     <ClCompile Include="ch04_15.cpp">
       <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_lms_1.cpp">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05_address.cpp">
+      <Filter>소스 파일\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05_1.cpp">
+      <Filter>소스 파일\ch05</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

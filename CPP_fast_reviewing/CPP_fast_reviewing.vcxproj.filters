@@ -354,6 +354,9 @@
     <ClCompile Include="ch06_9a.cpp">
       <Filter>소스 파일\ch06</Filter>
     </ClCompile>
+    <ClCompile Include="ch02_p87_1.cpp">
+      <Filter>소스 파일\ch01-02\Practice_1_2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_15_2_Calculator.h">

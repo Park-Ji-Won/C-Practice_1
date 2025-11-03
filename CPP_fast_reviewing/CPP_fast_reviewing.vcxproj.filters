@@ -49,6 +49,12 @@
     <Filter Include="소스 파일\ch07">
       <UniqueIdentifier>{ceeb4785-101c-4176-a0c1-86b1047ca965}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch08">
+      <UniqueIdentifier>{2cf9da75-8b73-488e-8c07-a400cf9fb4d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch09">
+      <UniqueIdentifier>{830d89da-8e6d-4429-8b6f-ff01374708ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch01_1.cpp">
@@ -362,6 +368,87 @@
     </ClCompile>
     <ClCompile Include="ch07_1.cpp">
       <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_2.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_3.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_op1.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_op2.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_op2_2.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_4.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_4_2.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_6.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_6a.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_6b.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_7.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_8.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_9.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_10.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_11.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_12.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_13.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_14.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_14a.cpp">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_1.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_casting.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_casting_a.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_casting_issue.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_casting_issue_solved.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_2.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_2a.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_3.cpp">
+      <Filter>소스 파일\ch08</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

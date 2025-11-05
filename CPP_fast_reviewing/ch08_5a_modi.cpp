@@ -33,10 +33,10 @@ public:
 
 int main() {
 	Derived x;
-	x.inputA(10);
-	x.inputA(20);
-	x.showA();
-	x.inputB(30);
-	x.inputB(40);
-	x.showB();
+	x.inputA(10); // 1 x.a=5;
+	x.inputA(20);// 2 x.setA(10);
+	x.showA(); // 3 
+	x.inputB(30); // 4 x.b=10;
+	x.inputB(40); // 5 x.setB(10);
+	x.showB(); // 6
 }

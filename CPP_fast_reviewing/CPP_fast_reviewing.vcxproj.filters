@@ -450,6 +450,33 @@
     <ClCompile Include="ch08_3.cpp">
       <Filter>소스 파일\ch08</Filter>
     </ClCompile>
+    <ClCompile Include="ch08_4.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_5.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_5a.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_5a_modi.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_6.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_7a.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_7b.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08_binding.cpp">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_1.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_15_2_Calculator.h">

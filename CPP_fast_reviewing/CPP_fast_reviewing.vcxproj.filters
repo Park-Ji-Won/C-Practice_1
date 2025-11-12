@@ -477,6 +477,30 @@
     <ClCompile Include="ch09_1.cpp">
       <Filter>소스 파일\ch09</Filter>
     </ClCompile>
+    <ClCompile Include="ch09_1a.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_2.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_3.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_3a.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_4.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_4a.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_4b.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_6.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_15_2_Calculator.h">

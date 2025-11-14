@@ -501,6 +501,9 @@
     <ClCompile Include="ch09_6.cpp">
       <Filter>소스 파일\ch09</Filter>
     </ClCompile>
+    <ClCompile Include="ch09_447.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch03_15_2_Calculator.h">

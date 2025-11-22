@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\ch09">
       <UniqueIdentifier>{830d89da-8e6d-4429-8b6f-ff01374708ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch10">
+      <UniqueIdentifier>{c75ddf31-05fd-4789-9e33-3055884cbac6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch01_1.cpp">
@@ -500,6 +503,15 @@
     </ClCompile>
     <ClCompile Include="ch09_6.cpp">
       <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_6_a.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_7.cpp">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10_T.cpp">
+      <Filter>소스 파일\ch10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
